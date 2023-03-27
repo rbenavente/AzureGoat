@@ -23,7 +23,7 @@ variable "resource_group" {
 
 variable "location" {
   type    = string
-  default = "westeurope"
+  default = "eastus"
 }
 
 
